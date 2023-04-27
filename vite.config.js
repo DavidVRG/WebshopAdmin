@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react({
     include: "**/*.jsx",
   })],
-  base: '/',
+  base: '/WebshopAdmin/',
   server: {
     host: true
   },
